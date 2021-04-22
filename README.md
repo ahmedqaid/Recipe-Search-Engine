@@ -72,5 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## todo
-Add APP_ID and APP_KEY as environment variables
+Add APP_ID and APP_KEY as environment variables &&
 Routing for each recipe for more details
